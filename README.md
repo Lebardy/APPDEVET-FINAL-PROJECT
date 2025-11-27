@@ -2,10 +2,10 @@
 
 A simple social media app where you can share your thoughts, photos, and videos with others.
 Made by:
-Jan Librando
-Josh Latonero
-John Ezekiel Rahiol
-R-Jay Arizobal
+ - Jan Librando
+ - Josh Latonero
+ - John Ezekiel Rahiol
+ - R-Jay Arizobal
 
 ## Download & Install
 
