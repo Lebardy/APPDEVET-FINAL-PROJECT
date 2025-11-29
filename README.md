@@ -7,6 +7,7 @@ Made by:
  - John Ezekiel Rahiol
  - R-Jay Arizobal
  - Jaron Brant Alicaway
+ - Stefan D. Amper
 
 ## Download & Install
 
