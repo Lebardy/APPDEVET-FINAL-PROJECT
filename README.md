@@ -6,7 +6,6 @@ Made by:
  - Josh Latonero
  - John Ezekiel Rahiol
  - R-Jay Arizobal
- - Jaron Brant Alicaway
  - Stefan D. Amper
 
 ## Download & Install
